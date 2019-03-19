@@ -1,5 +1,4 @@
-# marketplace
-This is a project from Rocketseat bootcamp NodeJs module
+# This is a project from Rocketseat bootcamp NodeJs module
 
 For easy start do:
 
