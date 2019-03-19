@@ -21,7 +21,7 @@ This project use:
 
 > jsonwebtoken
 
-> nodemailer (in this case we use [MailTrap](https://mailtrap.io) to test send email)
+> nodemailer
 
 > nodemailer-express-handlebars (Templates for email)
 
