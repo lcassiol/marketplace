@@ -30,3 +30,5 @@ This project use:
 
 > youch (Pretty error reporting)
 
+> sentry (Remote tracking error)
+
