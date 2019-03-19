@@ -15,10 +15,18 @@ then:
 
 This project use:
 > Express
+
 > Mongoose
+
 > Bcryptjs
+
 > jsonwebtoken
+
 > nodemailer (in this case we use [MailTrap](https://mailtrap.io) to test send email)
+
 > nodemailer-express-handlebars (Templates for email)
+
 > joi (Schema validation)
+
 > youch (Pretty error reporting)
+
